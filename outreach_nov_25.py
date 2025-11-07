@@ -38,10 +38,10 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 # data = pd.read_excel(file_path)
 # df = data.copy()
 
-current_month = datetime(2025, 10, 1).strftime("%B")
-report_year = datetime(2025, 10, 1).strftime("%Y")
+current_month = datetime(2025, 11, 1).strftime("%B")
+report_year = datetime(2025, 11, 1).strftime("%Y")
 report = "Outreach"
-mo = 'Oct'
+mo = 'Nov'
 
 
 # Define the Google Sheets URL
