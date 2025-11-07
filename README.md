@@ -1,84 +1,94 @@
-# BMHC Q4 2024 Reports: Responses
+# 📊 BMHC Community Outreach Activity Report 
 
-## Description
+## 📝 Description 
 
+An interactive Plotly/Dash dashboard that tracks and visualizes community outreach activities at the Black Men's Health Clinic (BMHC). This report provides comprehensive insights into community engagement efforts, event participation, health education initiatives, and outreach impact metrics. The dashboard enables stakeholders to monitor outreach effectiveness, identify underserved populations, and make data-driven decisions to expand BMHC's reach and strengthen community relationships.
 
+## 📂 Table of Contents 
+    
+- [Installation](#-installation)
+- [Usage](#️-usage)
+- [Methodology](#-methodology)
+- [Findings](#-findings)
+- [Conclusion](#-conclusion)
+- [License](#-license)
 
-## Table of Contents 
-	
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [License](#license)
-
-## Installation
+## 📦 Installation
 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/CxLos/BMHC_Responses_Q4_2024
+    git clone https://github.com/CxLos/Outreach_
     ```
 2. Navigate to the project directory:
     ```bash
-    cd BMHC_Responses_Q4_2024
+    cd Outreach_
     ```
 3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-## Usage
+## ▶️ Usage
 
 - This is an interactive Plotly/Dash dashboard. Please feel free to hover over any interesting data points that you would like to take a deeper dive on and zoom or zoom out to get a better view.
 
 - To launch the dashboard, execute the following command in your terminal or click the following link:
 
-  - [Service Tracker Report: Q4 2024 Dashboard - OnRender](https://bmhc-responses-q4-2024.onrender.com/)
-  - [Service Tracker Report: Q4 2024 Dashboard - Heroku](https://bmhc-responses-q4-2024-f697948dcc39.herokuapp.com/)
+  - [Community Outreach Activity Dashboard - OnRender](https://outreach.onrender.com/)
 
 ```bash
-python responses_q4_2024.py
+python outreach.py
 ```
 
-![Preview](./screenshots/Screenshot-163423.png)
+![Preview](./screenshots/)
 
-## Methodology
+## 🧪 Methodology
 
 The data for this project was sourced directly from the Black Men's Health Clinic
 
 ## Plans for collected data:
 
-- 
--
--
--
+- Track community engagement trends to identify effective outreach strategies
+- Analyze event participation patterns to optimize scheduling and locations
+- Monitor health education reach and impact across different communities
+- Generate automated outreach reports for stakeholders and community partners
+- Identify underserved areas and populations for targeted outreach initiatives
 
-## Findings
+## 🔍 Findings
 
-### 
+### Community Engagement
 
-* 
+* Total community events and activities conducted
+* Event attendance and participation rates
+* Geographic distribution of outreach efforts across neighborhoods
 
-### 
+### Health Education & Awareness
 
-* 
+* Types of health education sessions delivered (nutrition, chronic disease, mental health, etc.)
+* Community members reached through educational initiatives
+* Resource distribution and material effectiveness
 
-### 
+### Outreach Impact
 
-* 
+* New client referrals generated from outreach activities
+* Community partnerships and collaborations established
+* Follow-up engagement rates with contacted community members
 
-### 
+### Program Effectiveness
 
-* 
+* Most successful outreach event types and formats
+* Community feedback and satisfaction scores
+* Barriers to engagement and accessibility improvements needed
 
-## Conclusion
+## ✅ Conclusion
+
+The Community Outreach Activity Report provides valuable insights into the effectiveness of BMHC's community engagement and health education initiatives. The data collected enables leadership to make informed decisions about outreach strategies, resource allocation, and program expansion. By tracking engagement metrics and community impact, this dashboard supports continuous improvement in outreach effectiveness and community connection. Regular monitoring of these metrics helps ensure that outreach efforts successfully reach underserved populations, build trust within the community, and connect Black men with essential health services and resources. This data-driven approach continues to advance BMHC's mission of reducing health disparities and promoting wellness throughout the community.
 
 
 
-## License
+## 📄 License
 
 MIT License
 
